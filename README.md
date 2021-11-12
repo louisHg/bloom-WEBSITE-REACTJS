@@ -1,6 +1,3 @@
-# bloom-WEBSITE-REACTJS
-
-
 # Bloom
 Bloom is an independant web project to learn Reactjs after the school
 
