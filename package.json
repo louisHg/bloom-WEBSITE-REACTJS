@@ -1,25 +1,3 @@
-# bloom-WEBSITE-REACTJS
-
-
-# EpidCavalry
-Bloom is an independant web project to learn Reactjs after the school
-
-## Installation
-
-Use the package manager nodejs with Node Package Manager.
-After clone or install this projects and launch in the folder associate :
-
-```bash
-npm install
-```
-
-```bash
-npm start
-```
-
-## Usage
-
-```javascript
 {
   "name": "bloom-alternance",
   "version": "0.1.0",
@@ -62,12 +40,3 @@ npm start
     ]
   }
 }
-```
-
-## Contributing
-Enjoy test and good luck!
-
-Please make sure to update node as appropriate.
-
-## License
-[Bloom]
