@@ -1,7 +1,7 @@
 # bloom-WEBSITE-REACTJS
 
 
-# EpidCavalry
+# Bloom
 Bloom is an independant web project to learn Reactjs after the school
 
 ## Installation
